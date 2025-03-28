@@ -62,7 +62,7 @@ class Party implements Runnable {
 public class DungeonManager {
     public static void main(String[] args) {
         try {
-            File file = new File("input7.txt");
+            File file = new File("input1.txt");
             Scanner scanner = new Scanner(file);
             Map<String, Integer> inputs = new HashMap<>();
 
