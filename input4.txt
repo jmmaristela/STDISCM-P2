@@ -1,0 +1,8 @@
+n = 0
+t = 3
+h = 3
+d = 9
+t1 = 9
+t2 = 13
+
+// test case: invalid because of 0 instance

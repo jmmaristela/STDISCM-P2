@@ -1,0 +1,8 @@
+n = 4
+t = 4
+h = 3.5
+d = 12
+t1 = 7
+t2 = 12
+
+// test case for inputs that is not an integer
